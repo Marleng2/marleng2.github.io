@@ -1,0 +1,55 @@
+---
+title: "W06 Reflection Essay: Introduction to Positron"
+author: "Marlen Garcia"
+date: today
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Question 1
+
+## Question
+
+Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.
+
+## My Response
+
+I was able to download Positron successfully and watched videos from step 1 and 3 to familiarize myself with its interface.
+
+# Question 2
+
+## Question
+
+Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+## My Response
+
+When I first started using R Script and R Markdown in R, it seemed very difficult to have to memorize code to execute code. Once we learned about visual mode, it was a game changer in R, especially when we began using quarto more consistently. Now as we learn about using Quarto in Positron, it seems there are many more capabilities. Firstly, I love that R seamlessly integrates into Positron so you we do not have to learn a completely new program with new functions. It has been pretty easy to transition into R within Positron because the functions are nearly the same and we see the similar panes such as the environment, workspace and console. One of the features that Positron has that R does not, is the ability to observe data more deeply before running code. This can be done by using the grid icon. Here you can filter data, convert code and paste it into the code page and also view a summary. This can be very helpful to get quick stats on a dataset to prepare further insights.
+
+# Question 3
+
+## Question
+
+In Step 4, the video demonstrates how you can use AI.
+
+1.  Describe the various ways you can use AI inside Positron. Some are free while others are not.
+2.  Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+3.  I strongly recommend using GitHub Copilot, which is free if you apply for an education account.
+    1.  Apply for it and take a screenshot showing you were accepted into the education program.
+
+    2.  Play with it and do you find it helpful or distracting? Please elaborate
+4.  Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
+
+## My Response
+
+1.  The YouTube video, AI-Powered Data Science in Positron, we first are introduced to Positron as the next-generation IDE for data science. Positron combines RStudio features with visual studio and works both with R and Python languages. It takes R's strengths such as variable explorers, plot and data viewers, and interactive consoles and also takes the strengths of VS code like multi-language support, customization, and AI-powered coding tools. Posit believes that AI can be a powerful tool for data scientists and should work with the user, not replace the user. AI should help with automating repetitive tasks, coding and debugging, data exploration, and help make decisions. The main AI introduced that can be used in Positron is Positron Assistant. Positron Assitant acts like a AI chat tool in which users can ask questions and receive help without leaving Positron. It can help with generating and explaining code, it can also debug and suggest the next steps.
+2.  Aside from Positron Assistant, there are other AI tools that can be used within Positron. Some of these include GitHub Copilot, Open AI, Claude and other AI providers. From these, I have installed GitHub copilot, and OpenAI. I don't have much experience with the others.
+3.  GitHub Copilot Education Application
+    1.  I applied for the student education program but was rejected. I had originally submitted my class schedule when I applied. I have moved forward with taking the steps in the screenshot below to attempt to reapply.
+
+        ![](images/Screenshot%202026-06-21%20181319.png)
+
+<!-- -->
+
+2.  Even though I have been rejected, I played with Copilot itself and find it pretty useful. Its interface seems pretty similar to chat GPT. What I have seen is that some of the new features is being able to analyze code which can prove to be extremely helpful. It is also interesting that it is able to identify and fix errors as well.

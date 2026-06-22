@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "",
+    "text": "Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.\n\n\n\nI was able to download Positron successfully and watched videos from step 1 and 3 to familiarize myself with its interface."
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "",
+    "text": "Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron."
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "",
+    "text": "I was able to download Positron successfully and watched videos from step 1 and 3 to familiarize myself with its interface."
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question-3",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question-3",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "2.1 Question",
+    "text": "2.1 Question\nBased on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?"
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response-1",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response-1",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "2.2 My Response",
+    "text": "2.2 My Response\nWhen I first started using R Script and R Markdown in R, it seemed very difficult to have to memorize code to execute code. Once we learned about visual mode, it was a game changer in R, especially when we began using quarto more consistently. Now as we learn about using Quarto in Positron, it seems there are many more capabilities. Firstly, I love that R seamlessly integrates into Positron so you we do not have to learn a completely new program with new functions. It has been pretty easy to transition into R within Positron because the functions are nearly the same and we see the similar panes such as the environment, workspace and console. One of the features that Positron has that R does not, is the ability to observe data more deeply before running code. This can be done by using the grid icon. Here you can filter data, convert code and paste it into the code page and also view a summary. This can be very helpful to get quick stats on a dataset to prepare further insights."
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question-4",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#question-4",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "3.1 Question",
+    "text": "3.1 Question\nIn Step 4, the video demonstrates how you can use AI.\n\nDescribe the various ways you can use AI inside Positron. Some are free while others are not.\nWhich AI tools have you installed or set up? Which AI tools did you find beneficial for you?\nI strongly recommend using GitHub Copilot, which is free if you apply for an education account.\n\nApply for it and take a screenshot showing you were accepted into the education program.\nPlay with it and do you find it helpful or distracting? Please elaborate\n\nPublish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file."
+  },
+  {
+    "objectID": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response-2",
+    "href": "Garcia, Marlen-W06-Reflection Essay-Intro-positron.html#my-response-2",
+    "title": "W06 Reflection Essay: Introduction to Positron",
+    "section": "3.2 My Response",
+    "text": "3.2 My Response\n\nThe YouTube video, AI-Powered Data Science in Positron, we first are introduced to Positron as the next-generation IDE for data science. Positron combines RStudio features with visual studio and works both with R and Python languages. It takes R’s strengths such as variable explorers, plot and data viewers, and interactive consoles and also takes the strengths of VS code like multi-language support, customization, and AI-powered coding tools. Posit believes that AI can be a powerful tool for data scientists and should work with the user, not replace the user. AI should help with automating repetitive tasks, coding and debugging, data exploration, and help make decisions. The main AI introduced that can be used in Positron is Positron Assistant. Positron Assitant acts like a AI chat tool in which users can ask questions and receive help without leaving Positron. It can help with generating and explaining code, it can also debug and suggest the next steps.\nAside from Positron Assistant, there are other AI tools that can be used within Positron. Some of these include GitHub Copilot, Open AI, Claude and other AI providers. From these, I have installed GitHub copilot, and OpenAI. I don’t have much experience with the others.\nGitHub Copilot Education Application\n\nI applied for the student education program but was rejected. I had originally submitted my class schedule when I applied. I have moved forward with taking the steps in the screenshot below to attempt to reapply.\n\n\n\n\n\nEven though I have been rejected, I played with Copilot itself and find it pretty useful. Its interface seems pretty similar to chat GPT. What I have seen is that some of the new features is being able to analyze code which can prove to be extremely helpful. It is also interesting that it is able to identify and fix errors as well."
+  }
+]
