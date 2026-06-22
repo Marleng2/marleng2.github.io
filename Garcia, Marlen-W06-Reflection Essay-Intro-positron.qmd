@@ -53,3 +53,7 @@ In Step 4, the video demonstrates how you can use AI.
 <!-- -->
 
 2.  Even though I have been rejected, I played with Copilot itself and find it pretty useful. Its interface seems pretty similar to chat GPT. What I have seen is that some of the new features is being able to analyze code which can prove to be extremely helpful. It is also interesting that it is able to identify and fix errors as well.
+
+<!-- -->
+
+4.  <https://marleng2.github.io/Garcia,%20Marlen-W06-Reflection%20Essay-Intro-positron.html>
